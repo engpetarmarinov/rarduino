@@ -1,0 +1,28 @@
+* { font-family:tahoma; font-size:12px; padding:0px; margin:0px; }
+li { list-style-type: none; }
+header h1 { 
+	font-size: 46pt;
+	text-align: center;
+}
+#content span#status { 
+	font-size: 30pt;
+	padding-bottom: 40px;
+}
+#content {
+	width: 600px;
+	margin: 0px auto;
+	text-align: center;
+}
+#componentsList li {
+	font-size: 26pt;
+	display: block;
+}
+#componentsList li:hover {
+	cursor: pointer;
+}
+#componentsList li.on {
+	color: green;
+}
+#componentsList li.off {
+	color: gray;
+}
