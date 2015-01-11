@@ -6,10 +6,11 @@ The Raspberry talks to an Arduino Uno via johny-five.
 
 Installation
 ------------
-> $ git clone git@github.com:wildalmighty/rarduino.git 
-> $ cd rarduino/server 
-> $ npm install 
-
+```
+$ git clone git@github.com:wildalmighty/rarduino.git
+$ cd rarduino/server
+$ npm install
+```
 Usage
 -----
 You will need a web server. The other things are started from wshttpd.js
