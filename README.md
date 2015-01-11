@@ -6,8 +6,8 @@ The Raspberry talks to an Arduino Uno via johny-five.
 
 Installation
 ------------
-> $ git clone git@github.com:wildalmighty/rarduino.git
-> $ cd rarduino/server
+> $ git clone git@github.com:wildalmighty/rarduino.git 
+> $ cd rarduino/server 
 > $ npm install 
 
 Usage
