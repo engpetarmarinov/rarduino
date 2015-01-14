@@ -1,7 +1,7 @@
 #Rarduino
 My home automation playground. 
 ##Architecture
-I use my Raspberry Pi B+ for hosting simple nodejs web server and webwocket server.
+I use my Raspberry Pi B+ for hosting a simple nodejs web server and a websocket server.
 The Raspberry talks to an Arduino Uno via johny-five.
 
 Installation
